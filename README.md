@@ -1,2 +1,3 @@
-# color-for-dev
-TBD
+# temp-repo
+
+임시레포.. 이후 다른 레포지토리로 대체
