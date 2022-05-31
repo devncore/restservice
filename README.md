@@ -1,1 +1,2 @@
 # DevNcore.RestService
+C# .NET 6 기반의 REST 서비스 통신 모듈입니다.
